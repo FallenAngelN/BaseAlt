@@ -1,0 +1,3 @@
+﻿  Branch.cpp
+C:\Users\cinem\source\repos\git\Branch\Branch.cpp(106,77): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Branch.vcxproj -> C:\Users\cinem\source\repos\git\Branch\x64\Debug\Branch.dll

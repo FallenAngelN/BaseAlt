@@ -1,0 +1,4 @@
+C:\Users\cinem\source\repos\git\CLI\x64\Debug\CLI.vcxproj.CopyComplete
+C:\Users\cinem\source\repos\git\CLI\x64\Debug\CLI.exe
+C:\Users\cinem\source\repos\git\CLI\x64\Debug\libcurl-d.dll
+C:\Users\cinem\source\repos\git\CLI\x64\Debug\zlibd1.dll
